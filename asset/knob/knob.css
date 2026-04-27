@@ -1,0 +1,19 @@
+/* Knob Component Specific Styles */
+
+.knob-canvas {
+    cursor: pointer;
+    touch-action: none;
+    user-select: none;
+    -webkit-user-select: none;
+    width: 100%;
+    max-width: 300px;
+    aspect-ratio: 1 / 1;
+}
+
+/* Optional: styling for the container if needed */
+.knob-container {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
