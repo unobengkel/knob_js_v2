@@ -2,7 +2,7 @@
 
 A reusable, premium-styled 3D knob component built with Vanilla JavaScript and Canvas API. This component is designed to be easily integrated into any web project as a volume control, dimmer, or any rotary input.
 
-![Knob Preview](https://raw.githubusercontent.com/placeholder-path/preview.png) *(Note: Replace with your actual screenshot link)*
+![Knob Preview](https://github.com/unobengkel/knob_js_v2/blob/main/preview.PNG) *(Note: Replace with your actual screenshot link)*
 
 ## Features
 
